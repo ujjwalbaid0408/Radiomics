@@ -1,6 +1,5 @@
 clc;
 clear all; close all;
-
 % % Load original image.
 % load nbarb1;
 % 
