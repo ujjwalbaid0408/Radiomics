@@ -28,6 +28,7 @@ figure, imshow(chd,[]);
 figure, imshow(cvd,[]);
 figure, imshow(cdd,[]);
 
+
 % Visualize the decomposition.
 % 
 % for k = 1:1
