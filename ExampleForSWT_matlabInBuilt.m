@@ -14,7 +14,6 @@ clear all; close all;
 % title('Original image');
 % colormap(map)
 
-
 % Perform SWT decomposition
 % of X at level 3 using sym4.
 X = imread('test.jpg');
