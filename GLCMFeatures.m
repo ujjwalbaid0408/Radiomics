@@ -1,6 +1,5 @@
 function [out] = GLCMFeatures(glcm)
-% 
-% Features computed 
+% % Features computed 
 % Autocorrelation: [2]   
 % Cluster Prominence: [2]                   
 % Cluster Shade: [2] 
